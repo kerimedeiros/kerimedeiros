@@ -16,7 +16,7 @@
 Second career developer based in sunny SoCal ☀️🌴 </br>
 Background in marketing/advertising technology and digital media operations 👩‍💻 </br>
 Before pivoting into software development, I've held Operations & Program Management roles at companies such as:
-- Streaming / Big Tech: <a href="https://about.netflix.com/en/newsroom">Netflix</a>, <a href="https://about.youtube/">YouTube (Google)</a>
+- Streaming / Big Tech: <a href="https://about.netflix.com">Netflix</a>, <a href="https://about.youtube/">YouTube (Google)</a>
 - AdTech startups: <a href="https://techcrunch.com/2019/10/22/roku-buys-ad-tech-platform-dataxu-for-150-million">DataXu -> Roku</a> 
 - Digital media publishers: <a href="https://www.audacy.com/">Audacy</a>, <a href="https://www.bostonglobe.com/">BostonGlobe.com</a>, <a href="https://www.boston.com">Boston.com</a>
 
@@ -24,7 +24,7 @@ Before pivoting into software development, I've held Operations & Program Manage
 
 👀&nbsp; Currently looking for my first role as a new developer while I work on personal projects and building up my portfolio
 
-🛠️&nbsp; A big fan of identifying inefficiencies & automating workflows, and am especially excited by working with APIs 
+🛠️&nbsp; A big fan of identifying (and improving) inefficiencies, automating workflows, and working with APIs 
 
 🌟&nbsp; <b>Fun facts</b>: Dual citizen (U.S. 🇺🇸 + Portugal 🇵🇹), mom to <a href="https://drive.google.com/file/d/1cSZbs1-7pbp554WwbU9d1UlJJyRb8kTX/view?usp=share_link">Dusty dog</a>, and former punk rock  <a href="https://www.bostonherald.com/2022/05/25/bhr-l-tijuana-0525/">guitarist</a>
 
