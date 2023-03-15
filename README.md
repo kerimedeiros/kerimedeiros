@@ -20,7 +20,7 @@ Before pivoting into software development, I've held Operations & Program Manage
 - AdTech startups: <a href="https://techcrunch.com/2019/10/22/roku-buys-ad-tech-platform-dataxu-for-150-million">DataXu -> Roku</a> 
 - Digital media publishers: <a href="https://www.audacy.com/">Audacy</a>, <a href="https://www.bostonglobe.com/">BostonGlobe.com</a>, <a href="https://www.boston.com">Boston.com</a>
 
-🎓&nbsp; Recently completed a Full-Stack Software Engineering Certification program at Thinkful (March '23)
+🎓&nbsp; Recently completed a full-stack software engineering bootcamp (March '23)
 
 👀&nbsp; Currently looking for my first role as a new developer while I work on personal projects and building up my portfolio
 
