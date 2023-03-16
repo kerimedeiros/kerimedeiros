@@ -13,12 +13,7 @@
 </div>
   
 ### About Me:
-Second career developer based in sunny SoCal ☀️🌴 </br>
-Background in marketing/advertising technology and digital media operations 👩‍💻 </br>
-Before pivoting into software development, I've held Operations & Program Management roles at companies such as:
-- Streaming / Big Tech: <a href="https://about.netflix.com">Netflix</a>, <a href="https://about.youtube/">YouTube (Google)</a>
-- AdTech startups: <a href="https://techcrunch.com/2019/10/22/roku-buys-ad-tech-platform-dataxu-for-150-million">DataXu -> Roku</a> 
-- Digital media publishers: <a href="https://www.audacy.com/">Audacy</a>, <a href="https://www.bostonglobe.com/">BostonGlobe.com</a>, <a href="https://www.boston.com">Boston.com</a>
+Second career developer with a background in marketing/advertising technology and digital media operations. Before pivoting into software development, I've held Operations & Program Management roles at companies such as Netflix and YouTube (Google).
 
 🎓&nbsp; Recently completed a full-stack software engineering bootcamp (March '23)
 
