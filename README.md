@@ -13,7 +13,7 @@
 </div>
   
 ### About Me:
-Second career developer with a background in marketing/advertising technology and digital media operations. Before pivoting into software development, I've held Operations & Program Management roles at companies such as Netflix and YouTube (Google).
+Full stack developer with a prior career in online advertising and digital media operations. Experience working among product and engineering teams responsible for the growth of large-scale digital media and technology platforms with over 100 million users across the globe (Netflix, YouTube/Google). 
 
 🎓&nbsp; Recently completed a full-stack software engineering bootcamp (March '23)
 
