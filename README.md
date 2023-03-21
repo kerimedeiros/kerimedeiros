@@ -13,15 +13,15 @@
 </div>
   
 ### About Me:
-Full stack developer with a prior career in online advertising and digital media operations. Experience working among product and engineering teams responsible for the growth of large-scale digital media and technology platforms with over 100 million users across the globe (Netflix, YouTube/Google). 
+Full stack developer with a prior career in digital marketing/advertising, and media operations. Experience contributing to the growth and operational scale of digital media & technology platforms with hundreds of millions of users worldwide (Netflix, YouTube, Google). 
 
 🎓&nbsp; Recently completed a full-stack software engineering bootcamp (March '23)
 
 👀&nbsp; Currently looking for my first role as a new developer while I work on personal projects and building up my portfolio
 
-🛠️&nbsp; A big fan of identifying (and improving) inefficiencies, automating workflows, and working with APIs 
+🛠️&nbsp; A big fan of identifying & improving inefficiencies, automating workflows, and working with APIs 
 
-🌟&nbsp; <b>Fun facts</b>: Dual citizen (U.S. 🇺🇸 + Portugal 🇵🇹), mom to <a href="https://drive.google.com/file/d/1cSZbs1-7pbp554WwbU9d1UlJJyRb8kTX/view?usp=share_link">Dusty dog</a>, and former punk rock  <a href="https://www.bostonherald.com/2022/05/25/bhr-l-tijuana-0525/">guitarist</a>
+🌟&nbsp; <b>Fun facts</b>: Dual citizen (US 🇺🇸 + PT🇵🇹), mom to <a href="https://drive.google.com/file/d/1cSZbs1-7pbp554WwbU9d1UlJJyRb8kTX/view?usp=share_link">Dusty dog</a> 🐕, and former punk rock guitarist with songs in Guitar Hero / Rock Band 🎸
 
 ✉️&nbsp; Ways to reach me: [Email](mailto:kerimedeiros@gmail.com) or [LinkedIn](https://www.linkedin.com/in/kmedeiros1/)
 
