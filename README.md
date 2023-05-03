@@ -13,7 +13,7 @@
 </div>
   
 ### About Me:
-Full stack developer with a prior career in digital marketing and advertising technology. Experience contributing to the growth and operational scale of digital media & technology platforms with hundreds of millions of users worldwide (Netflix, YouTube, Google). 
+Software developer with a prior career in digital marketing and advertising technology. Experience contributing to the growth and operational scale of digital media & technology platforms with hundreds of millions of users worldwide (Netflix, YouTube, Google). 
 
 🎓&nbsp; Recently completed a full-stack software engineering bootcamp (March '23)
 
