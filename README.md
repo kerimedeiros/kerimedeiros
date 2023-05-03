@@ -13,15 +13,13 @@
 </div>
   
 ### About Me:
-Full stack developer with a prior career in digital marketing/advertising, and media operations. Experience contributing to the growth and operational scale of digital media & technology platforms with hundreds of millions of users worldwide (Netflix, YouTube, Google). 
+Full stack developer with a prior career in digital marketing and advertising technology. Experience contributing to the growth and operational scale of digital media & technology platforms with hundreds of millions of users worldwide (Netflix, YouTube, Google). 
 
 🎓&nbsp; Recently completed a full-stack software engineering bootcamp (March '23)
 
-👀&nbsp; Currently looking for my first role as a new developer while I work on personal projects and building up my portfolio
+👀&nbsp; Currently looking for my first role as a new developer while working on personal projects, building up my portfolio, and volunteering at Hack for LA
 
 🛠️&nbsp; A big fan of identifying & improving inefficiencies, automating workflows, and working with APIs 
-
-🌟&nbsp; <b>Fun facts</b>: Dual citizen (US 🇺🇸 + PT🇵🇹), mom to <a href="https://drive.google.com/file/d/1cSZbs1-7pbp554WwbU9d1UlJJyRb8kTX/view?usp=share_link">Dusty dog</a> 🐕, and former punk rock guitarist with songs in Guitar Hero / Rock Band 🎸
 
 ✉️&nbsp; Ways to reach me: [Email](mailto:kerimedeiros@gmail.com) or [LinkedIn](https://www.linkedin.com/in/kmedeiros1/)
 
