@@ -1,19 +1,4 @@
 
-<h1 align="center"><b>Hi, I'm Keri 👋 </b> </h1>
-<div align="center">
-<a href="https://www.linkedin.com/in/kmedeiros1/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://dev.to/kerimedeiros">
-      <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DevTo Badge"/>
-    </a>
-        <a href="https://community.codenewbie.org/kerimedeiros">
-      <img src="https://img.shields.io/badge/CodeNewbie-9013FE?style=for-the-badge&logo=CodeNewbie&logoColor=white" alt="CodeNewbie Badge"/>
-    </a>
-</div>
-  
-### About Me:
-Junior software developer with a prior career in digital media, marketing, and ad tech. Previously held operations and program management roles at leading digital media & technology platforms with hundreds of millions of users worldwide (Netflix, YouTube, Google).
 
 🛠️&nbsp; Currently a Software Support Engineer at <a href="https://www.rebuyengine.com/">Rebuy Engine</a>
 
